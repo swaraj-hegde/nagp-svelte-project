@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
@@ -42,6 +43,10 @@ You can preview the production build with `npm run preview`.
 # nagp-svelte-project
 NAGP - Svelte project
 >>>>>>> 8e478e0459ac4b1a7b55ed9f8a8583c8807bb166
+=======
+# nagp-svelte-project
+nagp-svelte-project
+>>>>>>> 37b635ae4091fc27b3f645449c23435da80433ac
 =======
 # nagp-svelte-project
 nagp-svelte-project
